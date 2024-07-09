@@ -1,0 +1,1 @@
+[W2_final, W3_final, b2_final, b3_final] = netbp;
