@@ -44,7 +44,7 @@ To get started with the lab assignments, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/na0da2021/DSP2-lab-assignments-and-projects]
+   git clone https://github.com/na0da2021/DSP2_lab_assignments_and_projects
 2. **Navigate to the desired lab directory:**
    ```bash
    cd [lab-directory]   
